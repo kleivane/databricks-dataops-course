@@ -47,7 +47,9 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC Job: definition of how to run
+# MAGIC
+# MAGIC Job run: a single pipeline-execution resulting in updates in unity catalog
 
 # COMMAND ----------
 
@@ -60,7 +62,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC jobname.py
 
 # COMMAND ----------
 
@@ -72,7 +74,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC deployment.yml
 
 # COMMAND ----------
 
